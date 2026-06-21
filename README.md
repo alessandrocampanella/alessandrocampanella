@@ -79,4 +79,4 @@ Languages:     Python · Kotlin · Dart · Java · C/C++ · SQL
 Mobile:        Android SDK · Flutter
 Backend:       REST APIs · Node/Python-based services
 Embedded:      Arduino · ESP32 · STM32
-Tools:         Git · Linux · Ryu SDN Controller
+Tools:         Git · Linux
