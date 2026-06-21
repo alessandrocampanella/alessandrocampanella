@@ -69,8 +69,6 @@ Mi occupo di costruire sistemi end-to-end che vanno da:
 
 - Raspberry Pi per automazione e server personali
 - Progetti IoT e smart devices
-- Prototipazione elettronica
-- Sperimentazione tra software e mondo fisico
 
 ---
 
